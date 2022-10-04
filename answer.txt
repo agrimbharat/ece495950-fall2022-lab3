@@ -3,3 +3,10 @@ management and is also responsible for stakeholder management.
 
 Q2) As the name suggests, the scrum master is responsible for all the scrum related activities. This includes JIRA tooling, facilitating sprints and meetings and managing standup meetings
 
+Q3) The 3 types of meetings are:
+
+    Spring Planning Meeting: Topics include determining what to complete in the sprint and determine story points and assign stories to teams
+
+    Daily Scrum/Standup Meeting: This is a short meeting that happens everyday where people discuss the work completed and any blockers they might be facing
+
+    Sprint Retrospective Meeting: This meeting is for discussing all the work that was completed and was not completed during the sprint
