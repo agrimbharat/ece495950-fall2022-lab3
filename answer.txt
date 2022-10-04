@@ -1,2 +1,5 @@
 Q1) The Product Owner equivalent in a non-agile team is a Project Manager. The role of the product owner is that he sets direction for the team, handles release
 management and is also responsible for stakeholder management.
+
+Q2) As the name suggests, the scrum master is responsible for all the scrum related activities. This includes JIRA tooling, facilitating sprints and meetings and managing standup meetings
+
